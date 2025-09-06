@@ -60,17 +60,6 @@ A mobile application that generates professional emails with one click.
 - **Achievement:** 1000+ downloads on Google Play Store
 - **Use Cases:** Business emails, promotions, job applications
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqueahmad275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqueahmad275&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqueahmad275&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements
 
 - 🎯 **200+ users** registered on AWS-hosted Codilarity platform
@@ -88,18 +77,4 @@ A mobile application that generates professional emails with one click.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tariqueahmad275)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918530109694)
 
-</div>
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tariqueahmad275&theme=tokyo-night&hide_border=true)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tariqueahmad275&style=for-the-badge&color=blue" alt="Profile Views" />
-  
-  ### 💭 "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-  ⭐️ From [tariqueahmad275](https://github.com/tariqueahmad275)
 </div>
