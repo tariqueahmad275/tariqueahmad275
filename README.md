@@ -104,13 +104,6 @@ I'm a **SAP ABAP Developer at Accenture** specializing in S/4HANA implementation
 - Use cases: Business emails, promotions, job applications
 - [🔗 Download on Play Store](https://play.google.com/store/apps/details?id=com.artific.ai)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqueahmad275&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqueahmad275&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Achievements & Certifications
 
 - 🎯 Delivered **150+ RICEFW objects** on SAP S/4HANA Implementation Projects
