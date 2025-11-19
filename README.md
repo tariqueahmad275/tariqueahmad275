@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a **SAP ABAP Developer at Accenture** specializing in S/4HANA implementations with a strong foundation in full-stack development. I combine enterprise SAP expertise with modern development practices to build scalable, performant solutions.
+I'm a **SAP BTP Developer at Accenture** specializing in S/4HANA implementations with a strong foundation in full-stack development. I combine enterprise SAP expertise with modern development practices to build scalable, performant solutions.
 
-- 🏢 Currently working as **SAP ABAP Developer @ Accenture**, Mumbai
+- 🏢 Currently working as **SAP BTP Developer @ Accenture**, Mumbai
 - 💼 **2.5+ years** of SAP experience delivering **150+ RICEFW objects** on S/4HANA projects
 - 🎓 B.E. in Computer Engineering from TCET, Mumbai (CGPA: 9.16)
-- 🔧 Former **Founding Software Engineer & Tech Lead** at Nextap AI
+- 🔧 Former **Software Engineer** at Nextap AI
 - 💡 Expertise in ABAP on HANA, Fiori/UI5, OData, and cloud-native architectures
 - 📍 Based in Mumbai, India
 
@@ -24,7 +24,7 @@ I'm a **SAP ABAP Developer at Accenture** specializing in S/4HANA implementation
 ![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Core SAP Skills:**
-- ABAP (OOPs ABAP, RICEF), Reports, Smart Forms, Adobe Forms
+- SAP BTP, CAPM, Java, Node.js, ABAP (OOPs ABAP, RICEF), Reports, Smart Forms, Adobe Forms
 - CDS Views, OData Services (V2/V4), RAP Model, BOPF
 - SAP Fiori/UI5 Development, HANA SQL, AMDP
 - BAPIs, RFCs, Enhancements (BAdI, User Exits)
