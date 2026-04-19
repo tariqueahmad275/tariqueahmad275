@@ -97,35 +97,6 @@ A mobile application that generates professional, ready-to-send emails in a sing
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqueahmad275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariqueahmad275&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqueahmad275&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tariqueahmad275&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqueahmad275&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
 ## 🏅 Highlights & Achievements
 
 | 🏆 Achievement | 📌 Details |
